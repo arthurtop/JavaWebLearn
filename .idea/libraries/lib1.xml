@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebProject/out/artifacts/WebProject_war_exploded/WEB-INF/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebProject/out/artifacts/WebProject_war_exploded/WEB-INF/lib/commons-dbutils-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebProject/out/artifacts/WebProject_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebProject/out/artifacts/WebProject_war_exploded/WEB-INF/lib/druid-1.1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
